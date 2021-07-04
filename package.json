@@ -1,0 +1,24 @@
+{
+  "name": "nodemon",
+  "version": "1.0.0",
+  "description": "nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "nodemon": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabelow/nodemon.git"
+  },
+  "keywords": [
+    "nodemon"
+  ],
+  "author": "Rafael Mello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabelow/nodemon/issues"
+  },
+  "homepage": "https://github.com/cabelow/nodemon#readme"
+}
